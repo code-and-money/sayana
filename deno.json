@@ -5,6 +5,7 @@
   "description": "",
   "author": "",
   "type": "module",
+  "license": "MIT",
   "main": "./mod.ts",
   "exports": {
     ".": "./mod.ts"
