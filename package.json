@@ -1,12 +1,27 @@
 {
-  "name": "sayana",
+  "name": "@codeandmoney/sayana",
   "version": "0.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [],
+  "description": "",
   "author": "",
-  "license": "ISC"
+  "type": "module",
+  "main": "./mod.ts",
+  "exports": {
+    ".": "./mod.ts"
+  },
+  "fmt": {
+    "semiColons": false,
+    "trailingCommas": "onlyMultiLine",
+    "quoteProps": "asNeeded",
+    "indentWidth": 2,
+    "lineWidth": 120,
+    "spaceAround": true
+  },
+  "contributors": [
+    {
+      "name": "Alexey Sokolov",
+      "email": "alexey@codeandmoney.com",
+      "url": "https://codeandmoney.com"
+    }
+  ]
 }
