@@ -1,0 +1,15 @@
+{
+  "lockfileVersion": 1,
+  "configVersion": 1,
+  "workspaces": {
+    "": {
+      "name": "@codeandmoney/sayana",
+      "dependencies": {
+        "effection": "4.0.0-beta.3",
+      },
+    },
+  },
+  "packages": {
+    "effection": ["effection@4.0.0-beta.3", "", {}, "sha512-JGRphS7uB6cWKA5ih6OlmiYQQuruNcaOjXo0+ca88xCmbPpmdeohh1+pTmCnDF8PWy3WQMnly9eFEtRyfXaeAA=="],
+  }
+}
