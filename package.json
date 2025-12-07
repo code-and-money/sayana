@@ -1,22 +1,11 @@
 {
   "name": "@codeandmoney/sayana",
-  "version": "0.0.0",
-  "keywords": [],
-  "description": "",
-  "author": "",
+  "version": "0.0.0-dev.0",
   "type": "module",
   "license": "MIT",
   "main": "./mod.ts",
   "exports": {
     ".": "./mod.ts"
-  },
-  "fmt": {
-    "semiColons": false,
-    "trailingCommas": "onlyMultiLine",
-    "quoteProps": "asNeeded",
-    "indentWidth": 2,
-    "lineWidth": 120,
-    "spaceAround": true
   },
   "contributors": [
     {
